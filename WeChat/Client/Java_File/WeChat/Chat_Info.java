@@ -19,6 +19,12 @@ public class Chat_Info extends Box{
         textPane.setEditable(false);
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
+        hsjjjjjjjjjjjjjjjjjjj
+        结束时间来上课
+        老司机上来就是
+        老师就事论事
+        
+        kssssssssjljJlJSLJsjlsjadlsjldjlJJSDL东临碣石代理商地脚螺栓的dlsd电力设计老师的就到了时间就
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
