@@ -28,6 +28,18 @@ public class Chat_Info extends Box{
         的点点滴滴的点点滴滴哒哒哒哒哒哒哒哒哒
         打开看看快快快快快快卡卡卡
         kjslsjls
+
+
+
+
+
+
+
+        slllllllllllll极乐世界老司机水利设施
+        睡觉了设计思路课时精练
+        来上课山梨酸钾抗裂砂浆
+        历史数据山梨酸钾
+        聊啥拉拉
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
