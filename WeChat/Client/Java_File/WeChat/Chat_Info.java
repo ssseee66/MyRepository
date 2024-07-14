@@ -21,6 +21,11 @@ public class Chat_Info extends Box{
         textPane.setBackground(Color.GREEN);
         大舅舅急急急急急急急急急急急急急急急急急急环境好家伙
         电话急急急急急急急急急急急急急急急急急急急急急
+
+
+
+
+        反反复复凤飞飞反反复复方法方法方法
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
