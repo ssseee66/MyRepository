@@ -20,6 +20,9 @@ public class Chat_Info extends Box{
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
         skjjddddddddddddddddd 
+        dhjkkkkkkkkkkslj
+        skjsl
+        kjslsjls
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
