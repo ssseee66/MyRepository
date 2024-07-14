@@ -21,6 +21,9 @@ public class Chat_Info extends Box{
         textPane.setBackground(Color.GREEN);
         skjjddddddddddddddddd 
         dhjkkkkkkkkkkslj
+        多看看坎坎坷坷坎坎坷坷卡卡卡
+        大舅舅急急急急急急叽叽叽叽
+        上来了啦啦啦啦啦啦啦啦啦啦啦啦
         skjsl
         的点点滴滴的点点滴滴哒哒哒哒哒哒哒哒哒
         打开看看快快快快快快卡卡卡
