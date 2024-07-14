@@ -19,10 +19,6 @@ public class Chat_Info extends Box{
         textPane.setEditable(false);
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
-        上课啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦
-        上来了啦啦啦啦啦啦啦啦啦啦啦啦啦
-        上来了啦啦啦啦啦啦啦啦啦啦啦啦啦数量啦啦啦啦啦啦啦啦
-        老师收拾收拾少时诵诗书
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
