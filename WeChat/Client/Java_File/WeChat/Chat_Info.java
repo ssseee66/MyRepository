@@ -18,6 +18,10 @@ public class Chat_Info extends Box{
         textPane = new JTextPane();
         textPane.setEditable(false);
         textPane.setFont(this.font);
+        owe呃呃呃呃呃呃呃呃呃诶
+        和呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃呃诶‘
+        核减额呃呃呃呃呃呃呃呃呃呃呃呃
+        额就问问吾问无为谓哇哇哇哇
         textPane.setBackground(Color.GREEN);
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
