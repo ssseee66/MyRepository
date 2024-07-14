@@ -22,10 +22,8 @@ public class Chat_Info extends Box{
         skjjddddddddddddddddd 
         dhjkkkkkkkkkkslj
         skjsl
-        饿了金额哦饿哦阿胶佛尔
-        计算逻辑说了句哦
-        老师就事论事健身房
-        聊啥了
+        的点点滴滴的点点滴滴哒哒哒哒哒哒哒哒哒
+        打开看看快快快快快快卡卡卡
         kjslsjls
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
