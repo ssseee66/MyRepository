@@ -19,35 +19,6 @@ public class Chat_Info extends Box{
         textPane.setEditable(false);
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
-        skjjddddddddddddddddd 
-        dhjkkkkkkkkkkslj
-        多看看坎坎坷坷坎坎坷坷卡卡卡
-        大舅舅急急急急急急叽叽叽叽
-        上来了啦啦啦啦啦啦啦啦啦啦啦啦
-        skjsl
-        的点点滴滴的点点滴滴哒哒哒哒哒哒哒哒哒
-        打开看看快快快快快快卡卡卡
-        kjslsjls
-
-
-
-
-
-
-AA SASA 
-SUD：D:KJDLJD:KLDJ:K
-当升科技啦啦啦啦啦
-手机壳大家
-蛇口街道可视角度
-会计师快递速度
-觉得时间到了
-
-        hdddddddddddddddddei谁红红火火恍恍惚惚哈哈哈
-        hssssssssssjk红红火火恍恍惚惚哈哈哈哈哈哈
-        还是坎坎坷坷坎坎坷坷看卡
-        上看看坎坎坷坷坎坎坷坷
-        谁快快快快快快快快快卡卡卡
-        
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
