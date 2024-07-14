@@ -20,6 +20,7 @@ public class Chat_Info extends Box{
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
         大舅舅急急急急急急急急急急急急急急急急急急环境好家伙
+        电话急急急急急急急急急急急急急急急急急急急急急
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
