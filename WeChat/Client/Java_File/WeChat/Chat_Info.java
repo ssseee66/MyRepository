@@ -19,6 +19,7 @@ public class Chat_Info extends Box{
         textPane.setEditable(false);
         textPane.setFont(this.font);
         textPane.setBackground(Color.GREEN);
+        第十六届看就看猎杀对决是老大
         FontMetrics fontMetrics = textPane.getFontMetrics(font);
         String[] chat_text_list = chat_text.split("\r\n|\r|\n");
         StringBuilder chat_textBuilder = new StringBuilder();
